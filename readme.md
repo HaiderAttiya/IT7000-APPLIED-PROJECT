@@ -102,7 +102,7 @@ Full details are available in the [Project Report](./Project_Report.pdf).
 
 ---
 
-**Made with ❤️ by Team 4**  
+**Made with ❤️ by A Team of 4**  
 **Submission Date**: 18 April 2026  
 **Course**: IT Applied Project (IT7000)
 
